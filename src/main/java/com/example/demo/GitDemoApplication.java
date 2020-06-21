@@ -10,6 +10,7 @@ public class GitDemoApplication {
 		System.out.println("Application started...");
 		SpringApplication.run(GitDemoApplication.class, args);
 		System.out.println("Application started...end");
+		System.out.println("Application master branch changes");
 	}
 
 }
