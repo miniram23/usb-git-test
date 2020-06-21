@@ -9,7 +9,8 @@ public class GitDemoApplication {
 	public static void main(String[] args) {
 		System.out.println("Application started...");
 		SpringApplication.run(GitDemoApplication.class, args);
-		System.out.println("Application started...end");
+		System.out.println("Application started...end-----");
+
 	}
 
 }
